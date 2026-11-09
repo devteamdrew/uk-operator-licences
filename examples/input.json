@@ -1,0 +1,10 @@
+{
+  "trafficAreas": [
+    "North West of England"
+  ],
+  "licenceCategories": [
+    "goods"
+  ],
+  "minVehicles": 5,
+  "maxItems": 20
+}
